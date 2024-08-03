@@ -1,7 +1,7 @@
 # Amruta Hegde
 
 <p align="center">
-<img src="BlackHole.png" alt="image" width="175"/><br>
+<img src="BlackHole.jpg" alt="image" width="175"/><br>
 </p> <br>
 <p align="center">
 
