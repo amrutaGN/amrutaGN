@@ -1,5 +1,8 @@
 # Amruta Hegde
 
+<img src="Background.jpg" alt="image" width="175"/><br>
+</p> <br>
+
 ## 💻 Developer | Coder | Astronomy Enthusiast | Sci-Fi | Music | Sports | Books | Statistics
 
 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in Python and C++.
