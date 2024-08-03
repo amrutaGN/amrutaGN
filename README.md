@@ -26,4 +26,4 @@ I'm always open to feedback, learnings, and new opportunities!
 
 ---
 
-**Thank you for visiting my profile!** 😊
+**Thank you!** 
