@@ -1,6 +1,6 @@
 # Amruta Hegde
 
-## 💻 Developer | Coder | Astronomy Enthusiast | Sci-Fi | Music | Sports | Books | Statistics
+## 💻 Developer | Coder
 
 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in Python and C++.
 
